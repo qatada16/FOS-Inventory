@@ -1,5 +1,6 @@
 # FOS Inventory
 <img width="917" height="407" alt="image" src="https://github.com/user-attachments/assets/c17075f6-af12-4cea-8352-967e7c50ac4e" />
+
 A simple office inventory management system for tracking and managing items in the workplace.
 Features include:
 
