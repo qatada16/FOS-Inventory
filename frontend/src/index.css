@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  @apply antialiased;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-[#0d1a1f];
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-[#284952] rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-[#95CFAB];
+}
